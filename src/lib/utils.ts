@@ -42,6 +42,6 @@ export function constructMetadata({
       creator: 'komalpc1001',
     },
     icons,
-    metadataBase: new URL("http://localhost:3000/")
+    metadataBase: new URL("https://snapshield.vercel.app/")
   }
 }
